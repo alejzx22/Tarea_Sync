@@ -106,10 +106,9 @@ To compile the example program, you can use the following command:
 ```gcc test.c sync.o -o test```
 
 This command will generate an executable file called test. You can then run the example program by using the following command:
+```./test```
 
 ## Authors
 - Alejandro Alfaro Rojas
 - Bianka Mora Meléndez
 - Bryan Sandí Quirós
-
-```./test```
